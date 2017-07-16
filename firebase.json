@@ -1,0 +1,9 @@
+{
+  "firebase": "fasso",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
